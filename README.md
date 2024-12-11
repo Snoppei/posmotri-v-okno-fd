@@ -1,1 +1,1 @@
-https://github.com/Snoppei/posmotri_v_okno.git
+https://github.com/Snoppei/posmotri-v-okno-fd.git
