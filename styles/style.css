@@ -243,8 +243,8 @@ ol {
 
 .content__list {
   position: relative;
-  overflow: auto;
   height: 298px;
+  overflow: auto;
 }
 
 .content__list-item:not(:last-child) {
