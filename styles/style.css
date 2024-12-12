@@ -225,7 +225,7 @@ ol {
   flex-direction: column;
   gap: 26px;
   width: 100%;
-  min-height: 534px;
+  height: 100%;
 }
 
 .title {
@@ -243,8 +243,8 @@ ol {
 
 .content__list {
   position: relative;
-  max-height: 298px;
   overflow: auto;
+  height: 298px;
 }
 
 .content__list-item:not(:last-child) {
